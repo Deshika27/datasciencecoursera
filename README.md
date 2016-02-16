@@ -1,2 +1,2 @@
 # datasciencecoursera
-### final assignment for "Data Scientist's Toolbox"
+final assignment for "Data Scientist's Toolbox"
